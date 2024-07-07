@@ -1,0 +1,3 @@
+[submodule "luadbc"]
+	path = luadbc
+	url = https://github.com/flok/luadbc.git
